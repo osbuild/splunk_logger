@@ -1,4 +1,4 @@
-module github.com/osbuild/osbuild-composer/pkg/splunk_logger
+module github.com/osbuild/splunk_logger
 
 go 1.21
 
